@@ -1,2 +1,2 @@
 # Tuanas-Coding-Practice
-Practising C sharp skills
+Practising C# skills
